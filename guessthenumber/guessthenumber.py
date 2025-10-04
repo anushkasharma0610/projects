@@ -5,6 +5,7 @@ if r.isdigit():
     r = int(r)
 else: 
     print("Enter a digit next time")
+    quit()
 range = random.randint(0,r)
 guesses=0
 while True:
