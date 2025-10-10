@@ -1,3 +1,3 @@
-see the app below:
+See the app below:
 
-[projects-9p37sohrhve9aurvlcdtrq.streamlit.app](https://projects-9p37sohrhve9aurvlcdtrq.streamlit.app/)
+[RockPaperScissors](https://projects-9p37sohrhve9aurvlcdtrq.streamlit.app/)
